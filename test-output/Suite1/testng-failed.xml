@@ -9,11 +9,11 @@
       </run>
     </groups>
     <classes>
-      <class name="samples.SampleTest">
+      <class name="test.SampleTest">
         <methods>
           <include name="second"/>
         </methods>
-      </class> <!-- samples.SampleTest -->
+      </class> <!-- test.SampleTest -->
     </classes>
   </test> <!-- test1(failed) -->
 </suite> <!-- Failed suite [Suite1] -->

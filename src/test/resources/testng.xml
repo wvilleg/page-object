@@ -5,11 +5,11 @@
         <groups>
             <run>
                 <include name="unit"/>
-                <include name="web"/>
             </run>
         </groups>
         <classes>
-            <class name="samples.SampleTest"/>
+            <class name="test.SampleTest"/>
+            <class name="test.RegformTest"/>
         </classes>
     </test>
 
