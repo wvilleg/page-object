@@ -19,9 +19,12 @@ public class RegformTest {
         ConfirmationPage confirmation = regform.submitRegform(name, lastName,
                 company, email, phone);
 
-        Assert.assertNotNull(confirmation);
+        System.out.println("variable en regform test" + confirmation.title);
+        //ssert.assertNotNull(confirmation);
+        Assert.assertEquals(confirmation.title, "Download Network Performance Monitor");
+        //Assert.assertEquals(confirmation.url,"https://www.solarwinds.com/network-performance-monitor/confirmation?parentCampaign=70150000000Dlbw");
         confirmation.close();
-        regform.close();
+
 
     }
 

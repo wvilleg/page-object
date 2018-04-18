@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="17379" started-at="2018-04-18T06:18:44Z" finished-at="2018-04-18T06:19:01Z">
+  <suite started-at="2018-04-18T22:31:57Z" name="Suite1" finished-at="2018-04-18T22:32:14Z" duration-ms="17110">
     <groups>
       <group name="unit">
-        <method signature="RegformTest.regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@16c0663d]" name="regformTest" class="test.RegformTest"/>
-        <method signature="SampleTest.first()[pri:0, instance:test.SampleTest@256216b3]" name="first" class="test.SampleTest"/>
+        <method signature="RegformTest.regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@72f926e6]" name="regformTest" class="test.RegformTest"/>
+        <method signature="SampleTest.first()[pri:0, instance:test.SampleTest@4f209819]" name="first" class="test.SampleTest"/>
       </group> <!-- unit -->
     </groups>
-    <test name="test1" duration-ms="17332" started-at="2018-04-18T06:18:44Z" finished-at="2018-04-18T06:19:01Z">
+    <test started-at="2018-04-18T22:31:57Z" name="test1" finished-at="2018-04-18T22:32:14Z" duration-ms="17041">
       <class name="test.SampleTest">
-        <test-method status="PASS" signature="first()[pri:0, instance:test.SampleTest@256216b3]" name="first" duration-ms="15" started-at="2018-04-18T00:18:44Z" finished-at="2018-04-18T00:18:44Z">
+        <test-method signature="first()[pri:0, instance:test.SampleTest@4f209819]" started-at="2018-04-18T16:31:57Z" name="first" finished-at="2018-04-18T16:31:57Z" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- first -->
       </class> <!-- test.SampleTest -->
       <class name="test.RegformTest">
-        <test-method status="PASS" signature="regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@16c0663d]" name="regformTest" duration-ms="17301" started-at="2018-04-18T00:18:44Z" finished-at="2018-04-18T00:19:01Z">
+        <test-method signature="regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@72f926e6]" started-at="2018-04-18T16:31:57Z" name="regformTest" finished-at="2018-04-18T16:32:14Z" duration-ms="16996" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -55,7 +55,7 @@
         </test-method> <!-- regformTest -->
       </class> <!-- test.RegformTest -->
     </test> <!-- test1 -->
-    <test name="test2" duration-ms="0" started-at="2018-04-18T06:19:01Z" finished-at="2018-04-18T06:19:01Z">
+    <test started-at="2018-04-18T22:32:14Z" name="test2" finished-at="2018-04-18T22:32:14Z" duration-ms="0">
     </test> <!-- test2 -->
   </suite> <!-- Suite1 -->
 </testng-results>

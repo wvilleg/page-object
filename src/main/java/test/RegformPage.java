@@ -46,9 +46,11 @@ public class RegformPage extends PageObject{
         phone.sendKeys(pphone);
         submitbtn.click();
 
-        return new ConfirmationPage(browser);
+        return new ConfirmationPage(this.driver);
 
     }
+
+
 
 
 
