@@ -2,18 +2,23 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" verbose="2" name="Failed suite [Suite1]">
   <test name="test1(failed)">
+    <parameter name="lastName" value="Villegas"/>
+    <parameter name="phone" value="1234567890"/>
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="name" value="Wendy"/>
+    <parameter name="company" value="Solarwinds"/>
+    <parameter name="email" value="wendyTestAutomation@solarwinds.com"/>
     <groups>
       <run>
         <include name="unit"/>
-        <include name="web"/>
       </run>
     </groups>
     <classes>
-      <class name="test.SampleTest">
+      <class name="test.RegformTest">
         <methods>
-          <include name="second"/>
+          <include name="regformTest" invocation-numbers="0"/>
         </methods>
-      </class> <!-- test.SampleTest -->
+      </class> <!-- test.RegformTest -->
     </classes>
   </test> <!-- test1(failed) -->
 </suite> <!-- Failed suite [Suite1] -->

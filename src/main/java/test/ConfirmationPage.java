@@ -2,11 +2,17 @@ package test;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 
 public class ConfirmationPage extends PageObject{
-    By downloadbtn = By.className("btnGreen downloadbtn solarTrack");
+    @FindBy(xpath="btnGreen downloadbtn solarTrack")
+    public WebElement downloadbtn;
 
-    public ConfirmationPage(WebDriver driver){
+
+
+    public ConfirmationPage(String driver){
         super(driver);
+
     }
 }

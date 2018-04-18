@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test name="page-object(failed)">
+    <classes>
+      <class name="test.RegformTest">
+        <methods>
+          <include name="regformTest"/>
+        </methods>
+      </class> <!-- test.RegformTest -->
+    </classes>
+  </test> <!-- page-object(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

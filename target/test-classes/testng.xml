@@ -2,6 +2,12 @@
 
 <suite name="Suite1" verbose="2" >
     <test name="test1" >
+        <parameter name="name" value="Wendy"/>
+        <parameter name="lastName" value="Villegas"/>
+        <parameter name="company" value="Solarwinds"/>
+        <parameter name="email" value="wendyTestAutomation@solarwinds.com"/>
+        <parameter name="phone" value="1234567890"/>
+        <parameter name="browser" value="Chrome"/>
         <groups>
             <run>
                 <include name="unit"/>
