@@ -1,9 +1,13 @@
 package test;
 
+import com.sun.org.apache.bcel.internal.generic.Select;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+//import org.openqa.selenium.support.ui.Select;
+
+import javax.swing.text.html.Option;
 
 public class RegformPage extends PageObject{
 
@@ -27,6 +31,11 @@ public class RegformPage extends PageObject{
     private WebElement submitbtn;
     //By submitbtn = By.id("regFormSubmit");
 
+    @FindBy(xpath = "//option[@value='DE']")
+    private WebElement country;
+    
+
+
 
     public RegformPage(String driver){
         super(driver);
@@ -44,6 +53,7 @@ public class RegformPage extends PageObject{
         company.sendKeys(pcompany);
         email.sendKeys(pemail);
         phone.sendKeys(pphone);
+        country.click();
         submitbtn.click();
 
         return new ConfirmationPage(this.driver);
