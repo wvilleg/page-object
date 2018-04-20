@@ -11,21 +11,27 @@ public class RegformTest {
     //WebDriver driver = new ChromeDriver();
 
     @Test(groups = {"unit"})
-    @Parameters({ "name", "lastName", "company", "email", "phone", "browser" })
+    @Parameters({ "name", "lastName", "company", "email", "phone", "browser", "referred" })
 
-    public void regformTest(String name, String lastName, String company, String email, String phone, String browser){
+    public void regformTest(String name, String lastName, String company, String email, String phone, String browser, String referred){
         RegformPage regform = new RegformPage(browser);
         regform.navigateToUrl("https://www.solarwinds.com/network-performance-monitor/registration");
         ConfirmationPage confirmation = regform.submitRegform(name, lastName,
-                company, email, phone);
+                company, email, phone, referred);
 
-        System.out.println("variable en regform test" + confirmation.title);
-        //ssert.assertNotNull(confirmation);
         Assert.assertEquals(confirmation.title, "Download Network Performance Monitor");
-        //Assert.assertEquals(confirmation.url,"https://www.solarwinds.com/network-performance-monitor/confirmation?parentCampaign=70150000000Dlbw");
         confirmation.close();
 
 
+    }
+    @Test(groups = {"fail"})
+    @Parameters({ "name","email", "phone", "browser"})
+    public void regformTestFail(String name, String email, String phone, String browser){
+
+        RegformPage regform = new RegformPage(browser);
+        regform.navigateToUrl("https://www.solarwinds.com/network-performance-monitor/registration");
+        regform.failRegformSubmit(name,email,phone);
+        regform.close();
     }
 
 }

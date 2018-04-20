@@ -9,7 +9,7 @@ import org.testng.Assert;
 public class ConfirmationPage extends PageObject{
     @FindBy(xpath="btnGreen downloadbtn solarTrack")
     public WebElement downloadbtn;
-    public  String ctitle;
+
 
 
 
@@ -20,7 +20,7 @@ public class ConfirmationPage extends PageObject{
 
     public ConfirmationPage(WebDriver instanceDriver){
         super(instanceDriver);
-        System.out.println("variable en confirmation" + url);
+
     }
 
 

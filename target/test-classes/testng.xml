@@ -8,13 +8,15 @@
         <parameter name="email" value="wendyTestAutomation@solarwinds.com"/>
         <parameter name="phone" value="1234567890"/>
         <parameter name="browser" value="Chrome"/>
+        <parameter name="referred" value="ReferredText"/>
         <groups>
             <run>
+                <include name="fail"/>
                 <include name="unit"/>
             </run>
         </groups>
         <classes>
-            <class name="test.SampleTest"/>
+            <!--<class name="test.SampleTest"/>-->
             <class name="test.RegformTest"/>
         </classes>
     </test>

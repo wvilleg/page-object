@@ -29,19 +29,14 @@ public class PageObject {
 
     public PageObject(WebDriver instanceDriver){
         this.driver = instanceDriver;
-        this.title = driver.getTitle();
-        System.out.println("antes del init" + driver.getTitle());
         PageFactory.initElements(driver, this);
-        //driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS) ;
         try {
             Thread.sleep(2000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.println("desp del init" + driver.getTitle());
         this.title = driver.getTitle();
         this.url = driver.getCurrentUrl();
-        System.out.println("variable url" + this.url);
     }
 
     public void close(){
