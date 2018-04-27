@@ -4,14 +4,8 @@
 <<<<<<< HEAD
     <list default="true" id="5f97ace5-df33-4dc5-914e-e1443ef757c0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/ConfirmationPage.java" afterPath="$PROJECT_DIR$/src/main/java/test/ConfirmationPage.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/PageObject.java" afterPath="$PROJECT_DIR$/src/main/java/test/PageObject.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/test/RegformPage.java" afterPath="$PROJECT_DIR$/src/main/java/test/RegformPage.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/RegformTest.java" afterPath="$PROJECT_DIR$/src/main/java/test/RegformTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" />
       <change beforePath="$PROJECT_DIR$/target/classes/test/RegformPage.class" afterPath="$PROJECT_DIR$/target/classes/test/RegformPage.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/RegformTest.class" afterPath="$PROJECT_DIR$/target/classes/test/RegformTest.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" />
       <change beforePath="$PROJECT_DIR$/test-output/Suite1/test1.html" afterPath="$PROJECT_DIR$/test-output/Suite1/test1.html" />
       <change beforePath="$PROJECT_DIR$/test-output/Suite1/test1.xml" afterPath="$PROJECT_DIR$/test-output/Suite1/test1.xml" />
       <change beforePath="$PROJECT_DIR$/test-output/Suite1/test2.html" afterPath="$PROJECT_DIR$/test-output/Suite1/test2.html" />
@@ -20,14 +14,8 @@
       <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" />
       <change beforePath="$PROJECT_DIR$/test-output/index.html" afterPath="$PROJECT_DIR$/test-output/index.html" />
       <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-test.RegformTest.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-test.RegformTest.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-test.SampleTest.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-test.SampleTest.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite1/classes.html" afterPath="$PROJECT_DIR$/test-output/old/Suite1/classes.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite1/groups.html" afterPath="$PROJECT_DIR$/test-output/old/Suite1/groups.html" />
       <change beforePath="$PROJECT_DIR$/test-output/old/Suite1/methods-alphabetical.html" afterPath="$PROJECT_DIR$/test-output/old/Suite1/methods-alphabetical.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite1/methods-not-run.html" afterPath="$PROJECT_DIR$/test-output/old/Suite1/methods-not-run.html" />
       <change beforePath="$PROJECT_DIR$/test-output/old/Suite1/methods.html" afterPath="$PROJECT_DIR$/test-output/old/Suite1/methods.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite1/testng.xml.html" afterPath="$PROJECT_DIR$/test-output/old/Suite1/testng.xml.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite1/toc.html" afterPath="$PROJECT_DIR$/test-output/old/Suite1/toc.html" />
       <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" />
       <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" />
     </list>
@@ -46,19 +34,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
 <<<<<<< HEAD
-<<<<<<< HEAD
       <file leaf-file-name="PageObject.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/PageObject.java">
-=======
-      <file leaf-file-name="RegformPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/RegformPage.java">
->>>>>>> parent of 0a56acc... selecting by send keys
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-<<<<<<< HEAD
                 <element signature="e#1235#1236#0" expanded="true" />
                 <element signature="e#1264#1265#0" expanded="true" />
 =======
@@ -70,41 +52,19 @@
               <folding>
                 <element signature="imports" expanded="true" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-                <element signature="e#1138#1139#0" expanded="true" />
-                <element signature="e#1167#1168#0" expanded="true" />
-                <element signature="e#1211#1212#0" expanded="true" />
-                <element signature="e#1252#1253#0" expanded="true" />
->>>>>>> parent of 0a56acc... selecting by send keys
               </folding>
             </state>
           </provider>
         </entry>
       </file>
 <<<<<<< HEAD
-<<<<<<< HEAD
       <file leaf-file-name="RegformPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/RegformPage.java">
-=======
-      <file leaf-file-name="ConfirmationPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/ConfirmationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PageObject.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/PageObject.java">
->>>>>>> parent of 0a56acc... selecting by send keys
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+            <state relative-caret-position="254">
+              <caret line="81" column="10" lean-forward="false" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-<<<<<<< HEAD
                 <element signature="e#1124#1125#0" expanded="true" />
                 <element signature="e#1153#1154#0" expanded="true" />
                 <element signature="e#1197#1198#0" expanded="true" />
@@ -123,16 +83,11 @@
                 <element signature="e#1235#1236#0" expanded="true" />
                 <element signature="e#1264#1265#0" expanded="true" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-                <element signature="e#1235#1236#0" expanded="true" />
-                <element signature="e#1264#1265#0" expanded="true" />
->>>>>>> parent of 0a56acc... selecting by send keys
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="ConfirmationPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/ConfirmationPage.java">
@@ -146,13 +101,6 @@
             <state relative-caret-position="240">
               <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
->>>>>>> parent of 0a56acc... selecting by send keys
               <folding />
             </state>
           </provider>
@@ -177,17 +125,12 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/test/RegformTest.java">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
-<<<<<<< HEAD
             <state relative-caret-position="241">
               <caret line="32" column="50" lean-forward="false" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
 =======
             <state relative-caret-position="180">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-            <state relative-caret-position="245">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
->>>>>>> parent of 0a56acc... selecting by send keys
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -230,10 +173,6 @@
         <option value="$PROJECT_DIR$/src/main/java/test/TestObject.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/SampleTest.java" />
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
-        <option value="$PROJECT_DIR$/src/main/java/test/RegformPage.java" />
->>>>>>> parent of 0a56acc... selecting by send keys
         <option value="$PROJECT_DIR$/src/main/java/test/RegformTest.java" />
 =======
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
@@ -241,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/main/java/test/ConfirmationPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/RegformTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/test/RegformPage.java" />
       </list>
     </option>
   </component>
@@ -293,7 +233,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -307,15 +247,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
 <<<<<<< HEAD
-<<<<<<< HEAD
     <panes />
 =======
     <panes>
-=======
-    <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
->>>>>>> parent of 0a56acc... selecting by send keys
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -370,18 +304,12 @@
           <select />
         </subPane>
       </pane>
-<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-    </panes>
->>>>>>> parent of 0a56acc... selecting by send keys
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -571,38 +499,33 @@
   </component>
   <component name="TestHistory">
 <<<<<<< HEAD
-<<<<<<< HEAD
-    <history-entry file="suite1 - 2018.04.20 at 15h 13m 23s.xml">
-=======
-    <history-entry file="suite1 - 2018.04.19 at 23h 29m 51s.xml">
->>>>>>> parent of 0a56acc... selecting by send keys
-      <configuration name="suite1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="suite1 - 2018.04.19 at 23h 31m 29s.xml">
-      <configuration name="suite1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="suite1 - 2018.04.19 at 23h 32m 34s.xml">
-      <configuration name="suite1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="suite1 - 2018.04.19 at 23h 37m 21s.xml">
-      <configuration name="suite1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="suite1 - 2018.04.19 at 23h 38m 52s.xml">
-      <configuration name="suite1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="suite1 - 2018.04.20 at 14h 41m 15s.xml">
-      <configuration name="suite1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="suite1 - 2018.04.20 at 14h 56m 02s.xml">
-      <configuration name="suite1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="suite1 - 2018.04.20 at 15h 12m 27s.xml">
-      <configuration name="suite1" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="suite1 - 2018.04.20 at 15h 13m 23s.xml">
       <configuration name="suite1" configurationId="TestNG" />
     </history-entry>
-<<<<<<< HEAD
+    <history-entry file="suite1 - 2018.04.20 at 15h 24m 18s.xml">
+      <configuration name="suite1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="suite1 - 2018.04.26 at 21h 02m 37s.xml">
+      <configuration name="suite1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="suite1 - 2018.04.26 at 21h 03m 56s.xml">
+      <configuration name="suite1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="suite1 - 2018.04.26 at 21h 07m 07s.xml">
+      <configuration name="suite1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="suite1 - 2018.04.26 at 21h 10m 07s.xml">
+      <configuration name="suite1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="suite1 - 2018.04.26 at 21h 11m 36s.xml">
+      <configuration name="suite1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="suite1 - 2018.04.26 at 21h 12m 40s.xml">
+      <configuration name="suite1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="suite1 - 2018.04.26 at 21h 14m 21s.xml">
+      <configuration name="suite1" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="suite1 - 2018.04.26 at 21h 32m 50s.xml">
 =======
     <history-entry file="suite1 - 2018.04.20 at 15h 12m 27s.xml">
@@ -634,9 +557,6 @@
     </history-entry>
     <history-entry file="suite1 - 2018.04.26 at 17h 35m 59s.xml">
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-    <history-entry file="suite1 - 2018.04.20 at 15h 24m 18s.xml">
->>>>>>> parent of 0a56acc... selecting by send keys
       <configuration name="suite1" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -653,8 +573,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
 <<<<<<< HEAD
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2057101" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31578946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
 =======
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2057101" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -670,17 +590,14 @@
 <<<<<<< HEAD
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44243422" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-<<<<<<< HEAD
 =======
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2138158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2138158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
->>>>>>> parent of 0a56acc... selecting by send keys
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -694,7 +611,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="45" />
+      <option name="time" value="47" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -705,7 +622,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-<<<<<<< HEAD
 <<<<<<< HEAD
             <element signature="e#1124#1125#0" expanded="true" />
             <element signature="e#1153#1154#0" expanded="true" />
@@ -720,12 +636,6 @@
             <element signature="e#1195#1196#0" expanded="true" />
             <marker date="1524785267593" expanded="true" signature="2262:2319" ph="{...}" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1167#1168#0" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
->>>>>>> parent of 0a56acc... selecting by send keys
           </folding>
         </state>
       </provider>
@@ -768,7 +678,6 @@
           <folding>
             <element signature="imports" expanded="true" />
 <<<<<<< HEAD
-<<<<<<< HEAD
             <element signature="e#1124#1125#0" expanded="true" />
             <element signature="e#1153#1154#0" expanded="true" />
             <element signature="e#1197#1198#0" expanded="true" />
@@ -782,12 +691,6 @@
             <element signature="e#1195#1196#0" expanded="true" />
             <marker date="1524785267593" expanded="true" signature="2262:2319" ph="{...}" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1167#1168#0" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
->>>>>>> parent of 0a56acc... selecting by send keys
           </folding>
         </state>
       </provider>
@@ -830,7 +733,6 @@
           <folding>
             <element signature="imports" expanded="true" />
 <<<<<<< HEAD
-<<<<<<< HEAD
             <element signature="e#1124#1125#0" expanded="true" />
             <element signature="e#1153#1154#0" expanded="true" />
             <element signature="e#1197#1198#0" expanded="true" />
@@ -844,12 +746,6 @@
             <element signature="e#1195#1196#0" expanded="true" />
             <marker date="1524785267593" expanded="true" signature="2262:2319" ph="{...}" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1167#1168#0" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
->>>>>>> parent of 0a56acc... selecting by send keys
           </folding>
         </state>
       </provider>
@@ -917,7 +813,6 @@
           <folding>
             <element signature="imports" expanded="true" />
 <<<<<<< HEAD
-<<<<<<< HEAD
             <element signature="e#1124#1125#0" expanded="true" />
             <element signature="e#1153#1154#0" expanded="true" />
             <element signature="e#1197#1198#0" expanded="true" />
@@ -931,12 +826,6 @@
             <element signature="e#1195#1196#0" expanded="true" />
             <marker date="1524785267593" expanded="true" signature="2262:2319" ph="{...}" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1167#1168#0" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
->>>>>>> parent of 0a56acc... selecting by send keys
           </folding>
         </state>
       </provider>
@@ -1022,7 +911,6 @@
           <folding>
             <element signature="imports" expanded="true" />
 <<<<<<< HEAD
-<<<<<<< HEAD
             <element signature="e#1124#1125#0" expanded="true" />
             <element signature="e#1153#1154#0" expanded="true" />
             <element signature="e#1197#1198#0" expanded="true" />
@@ -1036,12 +924,6 @@
             <element signature="e#1195#1196#0" expanded="true" />
             <marker date="1524785267593" expanded="true" signature="2262:2319" ph="{...}" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1167#1168#0" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
->>>>>>> parent of 0a56acc... selecting by send keys
           </folding>
         </state>
       </provider>
@@ -1125,48 +1007,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/TestNG.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="1035" column="0" lean-forward="false" selection-start-line="1035" selection-start-column="0" selection-end-line="1035" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/SuiteRunnerWorker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/SuiteRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/TestRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="456" column="0" lean-forward="false" selection-start-line="456" selection-start-column="0" selection-end-line="456" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/TestMethodWorker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="874" column="0" lean-forward="false" selection-start-line="874" selection-start-column="0" selection-end-line="874" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/MethodInvocationHelper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -1176,7 +1016,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
+        <state relative-caret-position="17">
+          <caret line="17" column="56" lean-forward="false" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/SampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/ConfirmationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/PageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1264#1265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/TestMethodWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding>
+            <marker date="1520486271839" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1520486271839" expanded="false" signature="143:602" ph="..." />
+            <marker date="1520486271839" expanded="true" signature="1330:1612" ph="{...}" />
+            <marker date="1520486271839" expanded="true" signature="1643:2043" ph="{...}" />
+            <marker date="1520486271839" expanded="true" signature="2074:2533" ph="{...}" />
+            <marker date="1520486271839" expanded="true" signature="2557:3119" ph="{...}" />
+            <marker date="1520486271839" expanded="true" signature="3210:3427" ph="{...}" />
+            <marker date="1520486271839" expanded="true" signature="3512:4457" ph="{...}" />
+            <marker date="1520486271839" expanded="true" signature="4541:5867" ph="{...}" />
+            <marker date="1520486271839" expanded="true" signature="5937:6111" ph="{...}" />
+            <marker date="1520486271839" expanded="false" signature="6158:6169" ph=" { " />
+            <marker date="1520486271839" expanded="false" signature="6195:6201" ph=" }" />
+            <marker date="1520486271839" expanded="true" signature="6245:6552" ph="{...}" />
+            <marker date="1520486271839" expanded="false" signature="6607:6618" ph=" { " />
+            <marker date="1520486271839" expanded="false" signature="6665:6671" ph=" }" />
+            <marker date="1520486271839" expanded="true" signature="6702:6817" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/TestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
         <state relative-caret-position="88">
           <caret line="445" column="23" lean-forward="false" selection-start-line="445" selection-start-column="23" selection-end-line="445" selection-end-column="23" />
@@ -1362,16 +1268,11 @@
             <element signature="imports" expanded="true" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
           </folding>
-=======
-        <state relative-caret-position="17">
-          <caret line="17" column="56" lean-forward="false" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
->>>>>>> parent of 0a56acc... selecting by send keys
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/SampleTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/SuiteRunner.class">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="88">
           <caret line="242" column="23" lean-forward="false" selection-start-line="242" selection-start-column="23" selection-end-line="242" selection-end-column="23" />
@@ -1476,16 +1377,11 @@
           <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-        <state relative-caret-position="204">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
->>>>>>> parent of 0a56acc... selecting by send keys
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/PageObject.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/SuiteRunnerWorker.class">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="88">
           <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
@@ -1511,19 +1407,10 @@
             <element signature="e#1235#1236#0" expanded="true" />
             <element signature="e#1264#1265#0" expanded="true" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-        <state relative-caret-position="119">
-          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1235#1236#0" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
->>>>>>> parent of 0a56acc... selecting by send keys
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/TestNG.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -1763,19 +1650,11 @@
           <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
           <folding />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/ConfirmationPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
->>>>>>> parent of 0a56acc... selecting by send keys
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/RegformPage.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/Invoker.class">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="88">
           <caret line="874" column="0" lean-forward="false" selection-start-line="874" selection-start-column="0" selection-end-line="874" selection-end-column="0" />
@@ -1857,36 +1736,31 @@
             <element signature="e#1195#1196#0" expanded="true" />
             <marker date="1524785267593" expanded="true" signature="2262:2319" ph="{...}" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-        <state relative-caret-position="41">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1167#1168#0" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
->>>>>>> parent of 0a56acc... selecting by send keys
           </folding>
         </state>
       </provider>
     </entry>
 <<<<<<< HEAD
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/test/RegformPage.java">
-=======
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
->>>>>>> parent of 0a56acc... selecting by send keys
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="254">
+          <caret line="81" column="10" lean-forward="false" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#1197#1198#0" expanded="true" />
+            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
+            <element signature="e#1356#1357#0" expanded="true" />
+            <element signature="e#1394#1395#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/RegformTest.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="241">
           <caret line="32" column="50" lean-forward="false" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
 =======
@@ -1895,10 +1769,6 @@
         <state relative-caret-position="180">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-        <state relative-caret-position="245">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
->>>>>>> parent of 0a56acc... selecting by send keys
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

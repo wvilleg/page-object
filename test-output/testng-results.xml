@@ -3,14 +3,10 @@
   <reporter-output>
   </reporter-output>
 <<<<<<< HEAD
-<<<<<<< HEAD
   <suite name="Suite1" duration-ms="69752" started-at="2018-04-27T03:31:39Z" finished-at="2018-04-27T03:32:49Z">
 =======
   <suite started-at="2018-04-26T23:35:33Z" name="Suite1" finished-at="2018-04-26T23:35:58Z" duration-ms="25097">
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-  <suite name="Suite1" duration-ms="32242" started-at="2018-04-20T21:23:46Z" finished-at="2018-04-20T21:24:18Z">
->>>>>>> parent of 0a56acc... selecting by send keys
     <groups>
       <group name="fail">
         <method signature="RegformTest.regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@4ac3c60d]" name="regformTestFail" class="test.RegformTest"/>
@@ -20,7 +16,6 @@
       </group> <!-- unit -->
     </groups>
 <<<<<<< HEAD
-<<<<<<< HEAD
     <test name="test1" duration-ms="69684" started-at="2018-04-27T03:31:39Z" finished-at="2018-04-27T03:32:49Z">
       <class name="test.RegformTest">
         <test-method status="PASS" signature="regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTest" duration-ms="39747" started-at="2018-04-26T21:31:39Z" finished-at="2018-04-26T21:32:19Z">
@@ -29,11 +24,6 @@
       <class name="test.RegformTest">
         <test-method signature="regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@4ac3c60d]" started-at="2018-04-26T17:35:33Z" name="regformTest" finished-at="2018-04-26T17:35:49Z" duration-ms="15940" status="PASS">
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-    <test name="test1" duration-ms="32194" started-at="2018-04-20T21:23:46Z" finished-at="2018-04-20T21:24:18Z">
-      <class name="test.RegformTest">
-        <test-method status="PASS" signature="regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTest" duration-ms="20727" started-at="2018-04-20T15:23:46Z" finished-at="2018-04-20T15:24:06Z">
->>>>>>> parent of 0a56acc... selecting by send keys
           <params>
             <param index="0">
               <value>
@@ -80,14 +70,10 @@
           </reporter-output>
         </test-method> <!-- regformTest -->
 <<<<<<< HEAD
-<<<<<<< HEAD
         <test-method status="PASS" signature="regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTestFail" duration-ms="29849" started-at="2018-04-26T21:32:19Z" finished-at="2018-04-26T21:32:49Z">
 =======
         <test-method signature="regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@4ac3c60d]" started-at="2018-04-26T17:35:49Z" name="regformTestFail" finished-at="2018-04-26T17:35:58Z" duration-ms="9058" status="PASS">
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-        <test-method status="PASS" signature="regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTestFail" duration-ms="11431" started-at="2018-04-20T15:24:06Z" finished-at="2018-04-20T15:24:18Z">
->>>>>>> parent of 0a56acc... selecting by send keys
           <params>
             <param index="0">
               <value>
@@ -116,14 +102,10 @@
       </class> <!-- test.RegformTest -->
     </test> <!-- test1 -->
 <<<<<<< HEAD
-<<<<<<< HEAD
     <test name="test2" duration-ms="0" started-at="2018-04-27T03:32:49Z" finished-at="2018-04-27T03:32:49Z">
 =======
     <test started-at="2018-04-26T23:35:58Z" name="test2" finished-at="2018-04-26T23:35:58Z" duration-ms="0">
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
-=======
-    <test name="test2" duration-ms="0" started-at="2018-04-20T21:24:18Z" finished-at="2018-04-20T21:24:18Z">
->>>>>>> parent of 0a56acc... selecting by send keys
     </test> <!-- test2 -->
   </suite> <!-- Suite1 -->
 </testng-results>
