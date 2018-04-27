@@ -24,7 +24,7 @@ public class RegformPage extends PageObject{
     private WebElement phone;
     @FindBy(id="regFormSubmit")
     private WebElement submitbtn;
-    @FindBy(id = "ci_country")
+    @FindBy(xpath = "//option[@value='DE']")
     private WebElement country;
     @FindBy (id = "yes")
     private WebElement referredYes;
@@ -43,18 +43,6 @@ public class RegformPage extends PageObject{
 
     public void navigateToUrl(String Url){
         driver.navigate().to(Url);
-    }
-
-    public WebElement getCountry() {
-        return country;
-    }
-
-    public void setCountry(WebElement country) {
-        this.country = country;
-    }
-
-    public void setCountryCode(){
-
     }
 
     public void failRegformSubmit(String pname, String pemail, String pphone){
@@ -78,12 +66,16 @@ public class RegformPage extends PageObject{
         email.sendKeys(pemail);
         phone.sendKeys(pphone);
 <<<<<<< HEAD
+<<<<<<< HEAD
         System.out.println(country.getAttribute("value"));
         country.sendKeys("Germany");
         System.out.println(country.getAttribute("value"));
 =======
 >>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
         //country.click();
+=======
+        country.click();
+>>>>>>> parent of 0a56acc... selecting by send keys
         referredYes.click();
         referred.sendKeys(preferred);
         submitbtn.click();
