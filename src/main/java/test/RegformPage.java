@@ -76,6 +76,10 @@ public class RegformPage extends PageObject{
         company.sendKeys(pcompany);
         email.sendKeys(pemail);
         phone.sendKeys(pphone);
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> parent of 02b40d1... Revert "selecting by send keys"
         System.out.println(country.getAttribute("value"));
         country.sendKeys("Germany");
         System.out.println(country.getAttribute("value"));
