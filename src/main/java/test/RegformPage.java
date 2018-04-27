@@ -57,11 +57,12 @@ public class RegformPage extends PageObject{
 
     }
 
-    public void failRegformSubmit(String pname, String pemail, String pphone){
+    public void failRegformSubmit(String pname, String pemail, String pphone, String pcountry){
 
         name.sendKeys(pname);
         email.sendKeys(pemail);
         phone.sendKeys(pphone);
+        country.sendKeys(pcountry);
         submitbtn.click();
         Assert.assertEquals(lastNameError.getText() , "Please provide a last name");
         Assert.assertEquals(companyError.getText(), "Please provide a company name");
@@ -69,21 +70,14 @@ public class RegformPage extends PageObject{
     }
 
     public ConfirmationPage submitRegform(String pname, String plastName, String pcompany,
-                                          String pemail, String pphone, String preferred){
+                                          String pemail, String pphone, String preferred, String pcountry){
 
         name.sendKeys(pname);
         lastName.sendKeys(plastName);
         company.sendKeys(pcompany);
         email.sendKeys(pemail);
         phone.sendKeys(pphone);
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> parent of 02b40d1... Revert "selecting by send keys"
-        System.out.println(country.getAttribute("value"));
-        country.sendKeys("Germany");
-        System.out.println(country.getAttribute("value"));
-        //country.click();
+        country.sendKeys(pcountry);
         referredYes.click();
         referred.sendKeys(preferred);
         submitbtn.click();

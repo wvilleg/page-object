@@ -2,38 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-<<<<<<< HEAD
-  <suite name="Suite1" duration-ms="69752" started-at="2018-04-27T03:31:39Z" finished-at="2018-04-27T03:32:49Z">
-=======
-<<<<<<< HEAD
-  <suite name="Suite1" duration-ms="69752" started-at="2018-04-27T03:31:39Z" finished-at="2018-04-27T03:32:49Z">
-=======
-  <suite started-at="2018-04-26T23:35:33Z" name="Suite1" finished-at="2018-04-26T23:35:58Z" duration-ms="25097">
->>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
->>>>>>> parent of 02b40d1... Revert "selecting by send keys"
+  <suite name="Suite1" duration-ms="35170" started-at="2018-04-27T04:35:33Z" finished-at="2018-04-27T04:36:09Z">
     <groups>
       <group name="fail">
-        <method signature="RegformTest.regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTestFail" class="test.RegformTest"/>
+        <method signature="RegformTest.regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTestFail" class="test.RegformTest"/>
       </group> <!-- fail -->
       <group name="unit">
-        <method signature="RegformTest.regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTest" class="test.RegformTest"/>
+        <method signature="RegformTest.regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTest" class="test.RegformTest"/>
       </group> <!-- unit -->
     </groups>
-<<<<<<< HEAD
-    <test name="test1" duration-ms="69684" started-at="2018-04-27T03:31:39Z" finished-at="2018-04-27T03:32:49Z">
+    <test name="test1" duration-ms="35115" started-at="2018-04-27T04:35:33Z" finished-at="2018-04-27T04:36:08Z">
       <class name="test.RegformTest">
-        <test-method status="PASS" signature="regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTest" duration-ms="39747" started-at="2018-04-26T21:31:39Z" finished-at="2018-04-26T21:32:19Z">
-=======
-<<<<<<< HEAD
-    <test name="test1" duration-ms="69684" started-at="2018-04-27T03:31:39Z" finished-at="2018-04-27T03:32:49Z">
-      <class name="test.RegformTest">
-        <test-method status="PASS" signature="regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTest" duration-ms="39747" started-at="2018-04-26T21:31:39Z" finished-at="2018-04-26T21:32:19Z">
-=======
-    <test started-at="2018-04-26T23:35:33Z" name="test1" finished-at="2018-04-26T23:35:58Z" duration-ms="25013">
-      <class name="test.RegformTest">
-        <test-method signature="regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@4ac3c60d]" started-at="2018-04-26T17:35:33Z" name="regformTest" finished-at="2018-04-26T17:35:49Z" duration-ms="15940" status="PASS">
->>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
->>>>>>> parent of 02b40d1... Revert "selecting by send keys"
+        <test-method status="PASS" signature="regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTest" duration-ms="22517" started-at="2018-04-26T22:35:33Z" finished-at="2018-04-26T22:35:56Z">
           <params>
             <param index="0">
               <value>
@@ -70,19 +50,16 @@
                 <![CDATA[ReferredText]]>
               </value>
             </param>
+            <param index="7">
+              <value>
+                <![CDATA[Germany]]>
+              </value>
+            </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- regformTest -->
-<<<<<<< HEAD
-        <test-method status="PASS" signature="regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTestFail" duration-ms="29849" started-at="2018-04-26T21:32:19Z" finished-at="2018-04-26T21:32:49Z">
-=======
-<<<<<<< HEAD
-        <test-method status="PASS" signature="regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTestFail" duration-ms="29849" started-at="2018-04-26T21:32:19Z" finished-at="2018-04-26T21:32:49Z">
-=======
-        <test-method signature="regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@4ac3c60d]" started-at="2018-04-26T17:35:49Z" name="regformTestFail" finished-at="2018-04-26T17:35:58Z" duration-ms="9058" status="PASS">
->>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
->>>>>>> parent of 02b40d1... Revert "selecting by send keys"
+        <test-method status="PASS" signature="regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTestFail" duration-ms="12547" started-at="2018-04-26T22:35:56Z" finished-at="2018-04-26T22:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -104,21 +81,18 @@
                 <![CDATA[Chrome]]>
               </value>
             </param>
+            <param index="4">
+              <value>
+                <![CDATA[France]]>
+              </value>
+            </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- regformTestFail -->
       </class> <!-- test.RegformTest -->
     </test> <!-- test1 -->
-<<<<<<< HEAD
-    <test name="test2" duration-ms="0" started-at="2018-04-27T03:32:49Z" finished-at="2018-04-27T03:32:49Z">
-=======
-<<<<<<< HEAD
-    <test name="test2" duration-ms="0" started-at="2018-04-27T03:32:49Z" finished-at="2018-04-27T03:32:49Z">
-=======
-    <test started-at="2018-04-26T23:35:58Z" name="test2" finished-at="2018-04-26T23:35:58Z" duration-ms="0">
->>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
->>>>>>> parent of 02b40d1... Revert "selecting by send keys"
+    <test name="test2" duration-ms="0" started-at="2018-04-27T04:36:09Z" finished-at="2018-04-27T04:36:09Z">
     </test> <!-- test2 -->
   </suite> <!-- Suite1 -->
 </testng-results>
