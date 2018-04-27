@@ -34,7 +34,7 @@ public class RegformPage extends PageObject{
     private WebElement lastNameError;
     @FindBy(id = "ci_company-error")
     private WebElement companyError;
-    private String pcountry;
+
 
 
     public RegformPage(String driver){
@@ -62,7 +62,6 @@ public class RegformPage extends PageObject{
         name.sendKeys(pname);
         email.sendKeys(pemail);
         phone.sendKeys(pphone);
-        country.click();
         submitbtn.click();
         Assert.assertEquals(lastNameError.getText() , "Please provide a last name");
         Assert.assertEquals(companyError.getText(), "Please provide a company name");
@@ -70,19 +69,16 @@ public class RegformPage extends PageObject{
     }
 
     public ConfirmationPage submitRegform(String pname, String plastName, String pcompany,
-                                          String pemail, String pphone, String preferred, String pcountry){
+                                          String pemail, String pphone, String preferred){
 
         name.sendKeys(pname);
         lastName.sendKeys(plastName);
         company.sendKeys(pcompany);
         email.sendKeys(pemail);
         phone.sendKeys(pphone);
-<<<<<<< HEAD
         System.out.println(country.getAttribute("value"));
         country.sendKeys("Germany");
         System.out.println(country.getAttribute("value"));
-=======
->>>>>>> 790e356b85097f489427e930e4b889cda7bb0145
         //country.click();
         referredYes.click();
         referred.sendKeys(preferred);
