@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite1]" guice-stage="DEVELOPMENT">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
   <test name="test1(failed)">
     <parameter name="lastName" value="Villegas"/>
-    <parameter name="country" value="DE"/>
     <parameter name="phone" value="1234567890"/>
     <parameter name="browser" value="Chrome"/>
     <parameter name="name" value="Wendy"/>
@@ -19,7 +18,7 @@
     <classes>
       <class name="test.RegformTest">
         <methods>
-          <include name="regformTest" invocation-numbers="0"/>
+          <include name="regformTestFail" invocation-numbers="0"/>
         </methods>
       </class> <!-- test.RegformTest -->
     </classes>
