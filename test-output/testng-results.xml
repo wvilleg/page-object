@@ -2,7 +2,7 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="32242" started-at="2018-04-20T21:23:46Z" finished-at="2018-04-20T21:24:18Z">
+  <suite name="Suite1" duration-ms="69752" started-at="2018-04-27T03:31:39Z" finished-at="2018-04-27T03:32:49Z">
     <groups>
       <group name="fail">
         <method signature="RegformTest.regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTestFail" class="test.RegformTest"/>
@@ -11,9 +11,9 @@
         <method signature="RegformTest.regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTest" class="test.RegformTest"/>
       </group> <!-- unit -->
     </groups>
-    <test name="test1" duration-ms="32194" started-at="2018-04-20T21:23:46Z" finished-at="2018-04-20T21:24:18Z">
+    <test name="test1" duration-ms="69684" started-at="2018-04-27T03:31:39Z" finished-at="2018-04-27T03:32:49Z">
       <class name="test.RegformTest">
-        <test-method status="PASS" signature="regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTest" duration-ms="20727" started-at="2018-04-20T15:23:46Z" finished-at="2018-04-20T15:24:06Z">
+        <test-method status="PASS" signature="regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTest" duration-ms="39747" started-at="2018-04-26T21:31:39Z" finished-at="2018-04-26T21:32:19Z">
           <params>
             <param index="0">
               <value>
@@ -54,7 +54,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- regformTest -->
-        <test-method status="PASS" signature="regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTestFail" duration-ms="11431" started-at="2018-04-20T15:24:06Z" finished-at="2018-04-20T15:24:18Z">
+        <test-method status="PASS" signature="regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6adca536]" name="regformTestFail" duration-ms="29849" started-at="2018-04-26T21:32:19Z" finished-at="2018-04-26T21:32:49Z">
           <params>
             <param index="0">
               <value>
@@ -82,7 +82,7 @@
         </test-method> <!-- regformTestFail -->
       </class> <!-- test.RegformTest -->
     </test> <!-- test1 -->
-    <test name="test2" duration-ms="0" started-at="2018-04-20T21:24:18Z" finished-at="2018-04-20T21:24:18Z">
+    <test name="test2" duration-ms="0" started-at="2018-04-27T03:32:49Z" finished-at="2018-04-27T03:32:49Z">
     </test> <!-- test2 -->
   </suite> <!-- Suite1 -->
 </testng-results>

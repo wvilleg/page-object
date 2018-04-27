@@ -24,7 +24,7 @@ public class RegformPage extends PageObject{
     private WebElement phone;
     @FindBy(id="regFormSubmit")
     private WebElement submitbtn;
-    @FindBy(xpath = "//option[@value='DE']")
+    @FindBy(id = "ci_country")
     private WebElement country;
     @FindBy (id = "yes")
     private WebElement referredYes;
@@ -43,6 +43,18 @@ public class RegformPage extends PageObject{
 
     public void navigateToUrl(String Url){
         driver.navigate().to(Url);
+    }
+
+    public WebElement getCountry() {
+        return country;
+    }
+
+    public void setCountry(WebElement country) {
+        this.country = country;
+    }
+
+    public void setCountryCode(){
+
     }
 
     public void failRegformSubmit(String pname, String pemail, String pphone){
@@ -64,7 +76,10 @@ public class RegformPage extends PageObject{
         company.sendKeys(pcompany);
         email.sendKeys(pemail);
         phone.sendKeys(pphone);
-        country.click();
+        System.out.println(country.getAttribute("value"));
+        country.sendKeys("Germany");
+        System.out.println(country.getAttribute("value"));
+        //country.click();
         referredYes.click();
         referred.sendKeys(preferred);
         submitbtn.click();
