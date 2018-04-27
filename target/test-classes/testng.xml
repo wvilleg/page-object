@@ -9,6 +9,7 @@
         <parameter name="phone" value="1234567890"/>
         <parameter name="browser" value="Chrome"/>
         <parameter name="referred" value="ReferredText"/>
+        <parameter name="country" value="FR"/>
         <groups>
             <run>
                 <include name="fail"/>

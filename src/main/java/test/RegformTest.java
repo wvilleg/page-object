@@ -11,13 +11,13 @@ public class RegformTest {
     //WebDriver driver = new ChromeDriver();
 
     @Test(groups = {"unit"})
-    @Parameters({ "name", "lastName", "company", "email", "phone", "browser", "referred" })
+    @Parameters({ "name", "lastName", "company", "email", "phone", "browser", "referred", "country" })
 
-    public void regformTest(String name, String lastName, String company, String email, String phone, String browser, String referred){
+    public void regformTest(String name, String lastName, String company, String email, String phone, String browser, String referred, String country){
         RegformPage regform = new RegformPage(browser);
         regform.navigateToUrl("https://www.solarwinds.com/network-performance-monitor/registration");
         ConfirmationPage confirmation = regform.submitRegform(name, lastName,
-                company, email, phone, referred);
+                company, email, phone, referred, country);
 
         Assert.assertEquals(confirmation.title, "Download Network Performance Monitor");
         confirmation.close();
