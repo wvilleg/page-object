@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="44826" started-at="2018-07-19T04:29:14Z" finished-at="2018-07-19T04:29:59Z">
+    <groups>
+      <group name="fail">
+        <method signature="RegformTest.regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6442b0a6]" name="regformTestFail" class="test.RegformTest"/>
+      </group> <!-- fail -->
+      <group name="unit">
+        <method signature="RegformTest.regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6442b0a6]" name="regformTest" class="test.RegformTest"/>
+      </group> <!-- unit -->
+    </groups>
+    <test name="test1" duration-ms="44757" started-at="2018-07-19T04:29:14Z" finished-at="2018-07-19T04:29:58Z">
+      <class name="test.RegformTest">
+        <test-method status="PASS" signature="regformTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6442b0a6]" name="regformTest" duration-ms="26372" started-at="2018-07-18T22:29:14Z" finished-at="2018-07-18T22:29:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wendy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Villegas]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Solarwinds]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[wendyTestAutomation@solarwinds.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ReferredText]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Germany]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regformTest -->
+        <test-method status="PASS" signature="regformTestFail(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.RegformTest@6442b0a6]" name="regformTestFail" duration-ms="18353" started-at="2018-07-18T22:29:40Z" finished-at="2018-07-18T22:29:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wendy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wendyTestAutomation@solarwinds.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[France]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regformTestFail -->
+      </class> <!-- test.RegformTest -->
+    </test> <!-- test1 -->
+    <test name="test2" duration-ms="0" started-at="2018-07-19T04:29:59Z" finished-at="2018-07-19T04:29:59Z">
+    </test> <!-- test2 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
